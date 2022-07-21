@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-### I'm a Chemical Engineering Student with an interest in expanding my coding knowledge
+---
+
+### I'm a Chemical Engineering Student looking to expand my coding knowledge
+
+---
 
 ### Check out some of my projects!
 <!--
