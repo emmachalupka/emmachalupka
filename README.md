@@ -4,7 +4,7 @@
 
 ### ⚗️I'm a Chemical Engineering Student working to expand my coding knowledge.
 
-### ⚡Check out some of my projects [here](https://github.com/emmachalupka?tab=repositories)
+### :clipboard:Check out some of my projects [here](https://github.com/emmachalupka?tab=repositories)!
 
 <!--
 **emmachalupka/emmachalupka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
