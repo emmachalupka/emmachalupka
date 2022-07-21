@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### I'm a Chemical Engineering Student with an interest in expanding my coding knowledge
+
+### Check out some of my projects! :
 <!--
 **emmachalupka/emmachalupka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
